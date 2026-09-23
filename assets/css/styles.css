@@ -5,6 +5,13 @@
 	line-height: 1.4em;
 }
 
+body.homepage {
+	background-color:bisque;
+}
+body.page2 {
+	background-color:cadetblue;
+}
+
 p a {
 	font-family: 'Courier New', Courier, monospace;
 	font-size: 1.3em;
