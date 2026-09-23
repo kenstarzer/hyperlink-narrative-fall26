@@ -3,3 +3,15 @@
 * {
 	font-family: Arial;
 }
+
+p a {
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 1.3em;
+	color: red;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+p a:hover {
+	color: dodgerblue;
+}
