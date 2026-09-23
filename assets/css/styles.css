@@ -2,6 +2,7 @@
 
 * {
 	font-family: Arial;
+	line-height: 1.4em;
 }
 
 p a {
@@ -14,4 +15,5 @@ p a {
 
 p a:hover {
 	color: dodgerblue;
+	border-bottom: 2px dotted dodgerblue;
 }
